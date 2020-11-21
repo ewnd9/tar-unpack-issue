@@ -1,0 +1,8 @@
+{
+  "name": "node-tar-issue",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "tar": "^6.0.5"
+  }
+}
